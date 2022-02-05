@@ -8,14 +8,7 @@
 # Outline do Documento
 
 - #### Resumo
-- #### Introdução
-    - Qual é o atual cenário do mercado?
-    - Como se destacar neste cenário?
-    - Quais os benefícios de se preocupar com a arquitetura?
-    - Por que não deixar a arquitetura sair do controle?
-    - Quais são os objetivos deste trabalho?
-    - Qual a importância do código limpo e da arquitetura?
-    - Porque se preocupar primeiro com o código limpo e depois com a arquitetura?
+- #### [Introdução](/introducao.md)
 - #### Revisão Bibliográfica
     - Entender as diferentes camadas de modelagem
         - Modelagem do código
