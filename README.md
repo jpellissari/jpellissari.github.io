@@ -1,8 +1,7 @@
-### Qual é o nosso objetivo?
-- Compilar conhecimento sobre clean architecture
-- Ser uma base de introdução para boas práticas
-- Ajudar o leitor a julgar qual melhor arquitetura para determinado projeto
-
+- ### Qual é o nosso objetivo?
+    - Organizar conhecimento sobre clean architecture, com apresentação de boas práticas para o auxílio de decisões de arquitetura de software em projetos
+- **Título**
+    -  ARQUITETURA DE SOFTWARE E BOAS PRÁTICAS: TRILHA DE CONHECIMENTO ORIENTADA PELA ARQUITETURA LIMPA NO DESENVOLVIMENTO DE SOFTWARES
 ---
 
 # Outline do Documento
